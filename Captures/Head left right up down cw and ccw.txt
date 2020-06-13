@@ -1,0 +1,51 @@
+Creating File:0511_1.TXT
+Get into T Pose Position, taking TPose In:
+5 Seconds
+4 Seconds
+3 Seconds
+2 Seconds
+1 Seconds
+TPOS  ~Take1~   ~Time0~  ~~chest~qW:-0.0042~qX:-0.5797~qY:0.0216~qZ:0.8145~  ~~head~qW:0.0568~qX:-0.1953~qY:-0.0614~qZ:0.9772~  PNTEND
+STARTIME 2000/5/11 (Thursday) 1:36:50
+PNTSTART  ~Take1~   ~Time2~  ~~chest~qW:-0.0041~qX:-0.5798~qY:0.0215~qZ:0.8145~  ~~head~qW:0.0570~qX:-0.1949~qY:-0.0613~qZ:0.9772~  PNTEND
+PNTSTART  ~Take1~   ~Time215~  ~~chest~qW:-0.0040~qX:-0.5801~qY:0.0212~qZ:0.8143~  ~~head~qW:0.0579~qX:-0.1945~qY:-0.0617~qZ:0.9772~  PNTEND
+PNTSTART  ~Take1~   ~Time428~  ~~chest~qW:-0.0038~qX:-0.5798~qY:0.0214~qZ:0.8145~  ~~head~qW:0.0585~qX:-0.1948~qY:-0.0614~qZ:0.9772~  PNTEND
+PNTSTART  ~Take1~   ~Time642~  ~~chest~qW:-0.0038~qX:-0.5797~qY:0.0214~qZ:0.8146~  ~~head~qW:0.0594~qX:-0.1965~qY:-0.0614~qZ:0.9768~  PNTEND
+PNTSTART  ~Take1~   ~Time855~  ~~chest~qW:-0.0040~qX:-0.5786~qY:0.0217~qZ:0.8154~  ~~head~qW:0.0560~qX:-0.1964~qY:-0.0618~qZ:0.9770~  PNTEND
+PNTSTART  ~Take1~   ~Time1069~  ~~chest~qW:-0.0066~qX:-0.5781~qY:0.0217~qZ:0.8156~  ~~head~qW:-0.1037~qX:-0.1903~qY:-0.0703~qZ:0.9737~  PNTEND
+PNTSTART  ~Take1~   ~Time1282~  ~~chest~qW:-0.0111~qX:-0.5781~qY:0.0191~qZ:0.8157~  ~~head~qW:-0.3774~qX:-0.1670~qY:-0.0527~qZ:0.9093~  PNTEND
+PNTSTART  ~Take1~   ~Time1496~  ~~chest~qW:-0.0126~qX:-0.5765~qY:0.0219~qZ:0.8167~  ~~head~qW:-0.4352~qX:-0.1711~qY:-0.0371~qZ:0.8831~  PNTEND
+PNTSTART  ~Take1~   ~Time1709~  ~~chest~qW:-0.0079~qX:-0.5746~qY:0.0179~qZ:0.8182~  ~~head~qW:-0.3605~qX:-0.1861~qY:-0.0402~qZ:0.9131~  PNTEND
+PNTSTART  ~Take1~   ~Time1923~  ~~chest~qW:-0.0002~qX:-0.5762~qY:0.0189~qZ:0.8171~  ~~head~qW:-0.0755~qX:-0.2068~qY:-0.0405~qZ:0.9746~  PNTEND
+PNTSTART  ~Take1~   ~Time2135~  ~~chest~qW:0.0029~qX:-0.5761~qY:0.0208~qZ:0.8171~  ~~head~qW:0.0601~qX:-0.2102~qY:-0.0513~qZ:0.9744~  PNTEND
+PNTSTART  ~Take1~   ~Time2348~  ~~chest~qW:0.0021~qX:-0.5744~qY:0.0228~qZ:0.8182~  ~~head~qW:0.0820~qX:-0.2227~qY:-0.0590~qZ:0.9697~  PNTEND
+PNTSTART  ~Take1~   ~Time2561~  ~~chest~qW:0.0018~qX:-0.5751~qY:0.0234~qZ:0.8177~  ~~head~qW:0.0735~qX:-0.2169~qY:-0.0565~qZ:0.9718~  PNTEND
+PNTSTART  ~Take1~   ~Time2774~  ~~chest~qW:0.0046~qX:-0.5728~qY:0.0252~qZ:0.8193~  ~~head~qW:0.3744~qX:-0.1832~qY:-0.0554~qZ:0.9073~  PNTEND
+PNTSTART  ~Take1~   ~Time2986~  ~~chest~qW:0.0192~qX:-0.5738~qY:0.0223~qZ:0.8185~  ~~head~qW:0.6306~qX:-0.1401~qY:-0.0576~qZ:0.7612~  PNTEND
+PNTSTART  ~Take1~   ~Time3199~  ~~chest~qW:0.0265~qX:-0.5751~qY:0.0156~qZ:0.8175~  ~~head~qW:0.6694~qX:-0.1354~qY:-0.0645~qZ:0.7275~  PNTEND
+PNTSTART  ~Take1~   ~Time3412~  ~~chest~qW:0.0200~qX:-0.5736~qY:0.0163~qZ:0.8187~  ~~head~qW:0.5270~qX:-0.1719~qY:-0.0746~qZ:0.8289~  PNTEND
+PNTSTART  ~Take1~   ~Time3624~  ~~chest~qW:0.0092~qX:-0.5691~qY:0.0147~qZ:0.8221~  ~~head~qW:0.1316~qX:-0.2325~qY:-0.0807~qZ:0.9603~  PNTEND
+PNTSTART  ~Take1~   ~Time3836~  ~~chest~qW:0.0027~qX:-0.5695~qY:0.0161~qZ:0.8218~  ~~head~qW:0.0372~qX:-0.2545~qY:-0.0703~qZ:0.9638~  PNTEND
+PNTSTART  ~Take1~   ~Time4049~  ~~chest~qW:0.0038~qX:-0.5681~qY:0.0185~qZ:0.8228~  ~~head~qW:0.0667~qX:-0.2314~qY:-0.0682~qZ:0.9681~  PNTEND
+PNTSTART  ~Take1~   ~Time4263~  ~~chest~qW:0.0025~qX:-0.5703~qY:0.0217~qZ:0.8212~  ~~head~qW:0.0942~qX:-0.0631~qY:-0.0671~qZ:0.9913~  PNTEND
+PNTSTART  ~Take1~   ~Time4475~  ~~chest~qW:0.0086~qX:-0.5765~qY:0.0204~qZ:0.8168~  ~~head~qW:0.0813~qX:0.1581~qY:-0.0803~qZ:0.9808~  PNTEND
+PNTSTART  ~Take1~   ~Time4687~  ~~chest~qW:0.0125~qX:-0.5785~qY:0.0162~qZ:0.8154~  ~~head~qW:0.0651~qX:0.2221~qY:-0.0895~qZ:0.9688~  PNTEND
+PNTSTART  ~Take1~   ~Time4900~  ~~chest~qW:0.0098~qX:-0.5724~qY:0.0153~qZ:0.8198~  ~~head~qW:0.0627~qX:0.1623~qY:-0.0862~qZ:0.9810~  PNTEND
+PNTSTART  ~Take1~   ~Time5114~  ~~chest~qW:0.0068~qX:-0.5655~qY:0.0137~qZ:0.8246~  ~~head~qW:0.0612~qX:-0.1100~qY:-0.0760~qZ:0.9891~  PNTEND
+PNTSTART  ~Take1~   ~Time5326~  ~~chest~qW:0.0025~qX:-0.5674~qY:0.0151~qZ:0.8233~  ~~head~qW:0.0758~qX:-0.2563~qY:-0.0610~qZ:0.9617~  PNTEND
+PNTSTART  ~Take1~   ~Time5539~  ~~chest~qW:0.0039~qX:-0.5627~qY:0.0175~qZ:0.8265~  ~~head~qW:0.0773~qX:-0.2452~qY:-0.0607~qZ:0.9645~  PNTEND
+PNTSTART  ~Take1~   ~Time5752~  ~~chest~qW:0.0035~qX:-0.5625~qY:0.0200~qZ:0.8265~  ~~head~qW:0.0887~qX:-0.2887~qY:-0.0582~qZ:0.9515~  PNTEND
+PNTSTART  ~Take1~   ~Time5965~  ~~chest~qW:0.0051~qX:-0.5593~qY:0.0183~qZ:0.8288~  ~~head~qW:0.0992~qX:-0.4794~qY:-0.0516~qZ:0.8704~  PNTEND
+PNTSTART  ~Take1~   ~Time6177~  ~~chest~qW:0.0068~qX:-0.5646~qY:0.0169~qZ:0.8251~  ~~head~qW:0.1003~qX:-0.5906~qY:-0.0467~qZ:0.7994~  PNTEND
+PNTSTART  ~Take1~   ~Time6391~  ~~chest~qW:0.0070~qX:-0.5612~qY:0.0164~qZ:0.8275~  ~~head~qW:0.0964~qX:-0.5569~qY:-0.0480~qZ:0.8235~  PNTEND
+PNTSTART  ~Take1~   ~Time6604~  ~~chest~qW:0.0068~qX:-0.5646~qY:0.0181~qZ:0.8251~  ~~head~qW:0.1027~qX:-0.3475~qY:-0.0409~qZ:0.9312~  PNTEND
+PNTSTART  ~Take1~   ~Time6817~  ~~chest~qW:0.0092~qX:-0.5585~qY:0.0201~qZ:0.8292~  ~~head~qW:0.1026~qX:-0.1502~qY:-0.0447~qZ:0.9823~  PNTEND
+PNTSTART  ~Take1~   ~Time7030~  ~~chest~qW:0.0079~qX:-0.5579~qY:0.0228~qZ:0.8296~  ~~head~qW:0.0891~qX:-0.1718~qY:-0.0559~qZ:0.9795~  PNTEND
+PNTSTART  ~Take1~   ~Time7244~  ~~chest~qW:0.0069~qX:-0.5572~qY:0.0233~qZ:0.8300~  ~~head~qW:0.0801~qX:-0.1969~qY:-0.0541~qZ:0.9756~  PNTEND
+PNTSTART  ~Take1~   ~Time7457~  ~~chest~qW:0.0081~qX:-0.5552~qY:0.0252~qZ:0.8312~  ~~head~qW:0.0790~qX:-0.1960~qY:-0.1220~qZ:0.9698~  PNTEND
+PNTSTART  ~Take1~   ~Time7671~  ~~chest~qW:0.0082~qX:-0.5536~qY:0.0231~qZ:0.8324~  ~~head~qW:0.0230~qX:-0.1860~qY:-0.3153~qZ:0.9303~  PNTEND
+PNTSTART  ~Take1~   ~Time7884~  ~~chest~qW:0.0132~qX:-0.5540~qY:0.0157~qZ:0.8323~  ~~head~qW:0.0001~qX:-0.1791~qY:-0.3768~qZ:0.9088~  PNTEND
+PNTSTART  ~Take1~   ~Time8096~  ~~chest~qW:0.0165~qX:-0.5547~qY:0.0199~qZ:0.8317~  ~~head~qW:-0.0002~qX:-0.1925~qY:-0.3547~qZ:0.9150~  PNTEND
+PNTSTART  ~Take1~   ~Time8309~  ~~chest~qW:0.0111~qX:-0.5555~qY:0.0129~qZ:0.8313~  ~~head~qW:0.0881~qX:-0.2065~qY:-0.1409~qZ:0.9642~  PNTEND
+PNTSTART  ~Take1~   ~Time8522~  ~~chest~qW:0.0064~qX:-0.5561~qY:0.0084~qZ:0.8311~  ~~head~qW:0.1087~qX:-0.2471~qY:0.0052~qZ:0.9629~  PNTEND
+Use the Keyboard to select the following options
