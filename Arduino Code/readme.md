@@ -1,23 +1,39 @@
 This folder contains all of the arduino code for putting in the arduino for the motion capture suit.
 
-Ok, I'm going to be honest.  I had to skim through the libraries I have in my machine and put links to what I thought this particular piece of code used.  I may try building this on a new machine one day, but for now, here's my best guess on what you need.
+Unpack the MotionCaptureArduinoLibraries.zip into your Arduino Libraries folder to use this code.
+
+# Ignore Everything Below!!!! I tried to install all these from the web recently and the current libraries are no longer compatible with the code!!!  I packed up the libraries that work into a zip and included it in the repo so future generations will always be able to build the code.
 
 To run the above code you need to put the following libraries into your arduino environment:
 
 # Adafruit Unified BNO055 Driver (AHRS/Orientation) #
 
-This driver is for the Adafruit BNO055 Breakout (http://www.adafruit.com/products/2472),
-and is based on Adafruit's Unified Sensor Library (Adafruit_Sensor).
+https://github.com/adafruit/Adafruit_Sensor
 
-## What is the Adafruit Unified Sensor Library? ##
+download the files from the above link and unpack the Adafruit_Sensor-Master folder into your Arduino/libraries folder.  Delete the -master from the folder name.
 
-The Adafruit Unified Sensor Library ([Adafruit_Sensor](https://github.com/adafruit/Adafruit_Sensor))
+https://github.com/adafruit/Adafruit_BNO055
 
-# Arduino Button Library
-https://github.com/JChristensen/JC_Button  
-README file  
+download the files from the above link and unpack the Adafruit_Sensor-Master folder into your Arduino/libraries folder.  Delete the -master from the folder name.
+
+# Adafruit Data logging shield
+
+for more information on the shield view this: https://learn.adafruit.com/adafruit-data-logger-shield/overview
+
+use the above link to install the sd card and real time clock libraries, but in short download this:
+https://github.com/adafruit/SD/archive/master.zip
+
+download the files from the above link and unpack the SD-Master folder into your Arduino/libraries folder.  Delete the -master from the folder name.
+
+also download this:
+
+https://github.com/adafruit/RTClib
+
+download the files from the above link and unpack the RTClib-Master folder into your Arduino/libraries folder.  Delete the -master from the folder name.
 
 # Liquid Menu and LIquid Crystal from here:
 https://github.com/arduino-libraries/LiquidCrystal
+download the files from the above link and unpack the LiquidCrystal-Master folder into your Arduino/libraries folder.  Delete the -master from the folder name.
 
-# May need timer and simple timer not sure.
+
+download the files from the above link and unpack the LiquidCristal-Master folder into your Arduino/libraries folder.  Delete the -master from the folder name.
