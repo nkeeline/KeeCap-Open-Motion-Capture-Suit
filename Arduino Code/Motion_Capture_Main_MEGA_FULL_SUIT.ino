@@ -40,7 +40,7 @@
 /**************************************************
  * VERSION
  *************************************************/
-  float Version = 1.00;
+  float Version = 1.01;
   String VersionString = String(Version,2);
 /**************************************************
  *************************************************/
@@ -1708,10 +1708,10 @@ void setup(void)
   Serial.begin(115200);
   Serial.println("");
   Serial.println("***************************************");
-  Serial.println("Spark Studio Motion Capture Intializing"); 
+  Serial.println("KeeCap Motion Capture Intializing"); 
   Serial.println("            Version " + VersionString);
   Serial.println("***************************************");
-  PrintLCDLine1("Spark Init");
+  PrintLCDLine1("KeeCap Init");
   PrintLCDLine2("SDCard Init");
 
       
@@ -1724,7 +1724,7 @@ void setup(void)
   // initialize the pushbutton pin as an input:
   pinMode(buttonPin, INPUT_PULLUP);
   CheckForLCDConnect();
-  PrintLCDLine1("SparkMoCap v" + VersionString);
+  PrintLCDLine1("KeeCap v" + VersionString);
   PrintLCDLine2("Press to Init.");
 }
 /**************************************************************************/
