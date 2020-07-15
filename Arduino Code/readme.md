@@ -1,6 +1,6 @@
 This folder contains all of the arduino code for putting in the arduino for the motion capture suit.
 
-Unpack the MotionCaptureArduinoLibraries.zip into your Arduino Libraries folder to use this code.
+Unpack the MotionCaptureArduinoLibraries.zip into your Arduino Libraries folder.  then open the INO file and upload it into your Arduino Mega.
 
 # Ignore Everything Below!!!! I tried to install all these from the web recently and the current libraries are no longer compatible with the code!!!  I packed up the libraries that work into a zip and included it in the repo so future generations will always be able to build the code.
 
