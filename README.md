@@ -10,7 +10,7 @@ Tutorial on how the suit talks to Blender:
 
 https://youtu.be/CypV9pPTCXo
 
-If you want to test the PC only side without a suit you can use the latest python script from blender python dir (curently v1.3.0) in blender 2.83 and open the Move rig tester from the blender dir.
+If you want to test the PC only side without a suit you can use the latest python script from blender python dir in blender 2.83 and open the Move rig tester from the blender dir.
 
 For the script to work in blender you MUST install PySerial into blender watch the second tutorial above to see how.
 
@@ -41,4 +41,4 @@ Here are some sample captures taken during development and on set with sample vi
 
 # Schematics Diagrams
 
-These are the fritzing schematics and diagrams for the wiring of the suite to get an overview of how it's wires.
+These are the fritzing schematics and diagrams for the wiring of the suite to get an overview of how it's wired.
