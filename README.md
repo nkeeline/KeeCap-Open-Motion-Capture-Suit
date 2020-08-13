@@ -16,7 +16,8 @@ For the script to work in blender you MUST install PySerial into blender watch t
 
 # This folder...
 
-The suit bom.ods in the root contains all part numbers and prices for the components to buy the suit.  Open the file in libre office calc.
+The suit bom.ods in the root contains all part numbers and prices for the components to buy the suit.  Open the file in libre office calc.  Most of the parts listed are from digikey.com, for example the imu board is this:
+https://www.digikey.com/product-detail/en/microchip-technology/ATBNO055-XPRO/ATBNO055-XPRO-ND/5230918
 
 # Arduino Code
 
